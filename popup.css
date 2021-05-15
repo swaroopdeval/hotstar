@@ -1,0 +1,22 @@
+body {
+    min-width:300px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.options {
+    display: flex;
+}
+
+.speed_option {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+}
+
+.speed_option input {
+    margin-right: 5px;
+}
