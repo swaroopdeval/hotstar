@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "version": "1.0",
   "name": "HotStar",
-  "description": "\"Enhance HotStar experience (developed by fans)",
+  "description": "Enhance HotStar experience (developed by fans)",
   "background": {
     "service_worker": "background.js"
   },
